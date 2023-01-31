@@ -1,3 +1,4 @@
 # CPE322 Repository
 
-**John Shepitka**
+John Shepitka
+Group 9
