@@ -1,4 +1,4 @@
-# CPE322 Repository
+# CPE 322 Repository
 
 John Shepitka
 
