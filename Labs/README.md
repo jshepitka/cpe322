@@ -2,5 +2,5 @@
 
 # Lab 1
 
-- [GHDL v2.0.0](https://github.com/ghdl/ghdl/releases/tag/v2.0.0) for compiling.
+- [GHDL 0.37-mingw64-llvm](https://github.com/ghdl/ghdl/releases/tag/v0.37) for compiling.
 - GTKWave 3.3.100-bin-win64 for waveform veiwing
