@@ -16,3 +16,4 @@ $ ghdl -r ha_tb --vcd=ha.vcd
 ha_tb.vhdl:47:5:@5ns:(assertion error): Reached end of test
 $ gtkwave ha.vcd
 ```
+![Half Adder GTKWave Screenshot](https://github.com/jshepitka/cpe322/blob/main/Labs/Lab%201/halfadder.JPG)
