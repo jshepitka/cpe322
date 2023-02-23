@@ -3,7 +3,7 @@
 # Lab 1
 
 - [GHDL 0.37-mingw64-llvm](https://github.com/ghdl/ghdl/releases/tag/v0.37) for compiling.
-- [GTKWave 3.3.100-bin-win64](https://sourceforge.net/projects/gtkwave/files/gtkwave-3.3.100-bin-win64) for waveform veiwing
+- [GTKWave 3.3.100-bin-win64](https://sourceforge.net/projects/gtkwave/files/gtkwave-3.3.100-bin-win64) for waveform viewing
 
 ## Half Adder Example:
 
