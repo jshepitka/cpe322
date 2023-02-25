@@ -31,3 +31,17 @@ $ gtkwave mux.vcd
 ![4to1mux GTKWave Screenshot](https://github.com/jshepitka/cpe322/blob/main/Labs/Lab%201/41mux.JPG)
 
 The commands ran in the screenshot did not produce the expected results as shown in the [Digital Sytem Design Repo](https://github.com/kevinwlu/dsd/blob/master/ghdl/mux.png) for unknown reason.
+
+## T Flip Flop Example
+
+```
+$ ghdl -a tff.vhdl
+$ ghdl -a tff_tb.vhdl
+$ ghdl -e tff_tb
+$ ghdl -r tff_tb --vcd=tff.vcd
+$ gtkwave tff.vcd
+```
+
+![tflipflop GTKWave Screenshot](https://github.com/jshepitka/cpe322/blob/main/Labs/Lab%201/tflipflop.JPG)
+
+Again, the results shown in GTKWave did not look like [the screenshot shown in the instructions](https://github.com/kevinwlu/dsd/blob/master/ghdl/tff.png). further investigation will be done to resolve the problem.
