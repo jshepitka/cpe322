@@ -2,7 +2,7 @@
 
 [Kevin Lu - Internet of Things Repository](https://github.com/kevinwlu/iot)
 
-````$ hostname ```
+```$ hostname ```
 
 - provided the name I gave to identify my laptop "JOHNNY-LAPTOP"
 
