@@ -53,3 +53,5 @@ $ nano file
 - ```$ ping localhost``` pings you own system (localhost) and shows the time each reply takes. because it is local the time was less than 1ms. The command also shows the number of packets sent, received, and lost. other statics also shown.net
 
 -```$ netstat``` lists active connections and the local address, foreign address and state of each connection.
+
+[Link back to main README](https://github.com/jshepitka/cpe322/blob/main/README.md)
