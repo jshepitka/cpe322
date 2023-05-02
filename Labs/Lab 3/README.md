@@ -58,3 +58,5 @@ The utilization per second as a percentage for each CPU
 Word Count: 1343
 Top Ten Words: [('our', 26), ('their', 20), ('has', 20), ('he', 19), ('them', 15), ('these', 13), ('have', 11), ('we', 11), ('us', 11), ('people', 10)]
 ```
+
+[Link back to main README](https://github.com/jshepitka/cpe322/blob/main/README.md)
