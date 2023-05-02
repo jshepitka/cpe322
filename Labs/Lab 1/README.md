@@ -45,3 +45,5 @@ $ gtkwave tff.vcd
 ![tflipflop GTKWave Screenshot](https://github.com/jshepitka/cpe322/blob/main/Labs/Lab%201/tflipflop.JPG)
 
 Again, the results shown in GTKWave did not look like [the screenshot shown in the instructions](https://github.com/kevinwlu/dsd/blob/master/ghdl/tff.png). further investigation will be done to resolve the problem.
+
+[Link back to main README](https://github.com/jshepitka/cpe322/blob/main/README.md)
