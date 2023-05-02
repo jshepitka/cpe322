@@ -18,7 +18,6 @@ $ pip install jdcal stral geopy
 - ```$python sun.py 'New York'``` did not run without the pytz library. after installing the library, the script returned:
 ```Timezone: US/Eastern
 Latitude: 40.72; Longitude: -74.00
-
 Dawn:    2023-05-01 05:24:54.490627-04:00
 Sunrise: 2023-05-01 05:55:08.678720-04:00
 Noon:    2023-05-01 12:53:11-04:00
