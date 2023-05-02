@@ -29,10 +29,9 @@ Dusk:    2023-05-01 20:22:05.364214-04:00
 
 -```$ python moon.py``` returned the moon phases for the next 30 days.
 
-```$ python coordinates.py 'SC Williams Library'```:
+-```$ python coordinates.py 'SC Williams Library'```:
 
-```Library Parking, Williams Lake, Cariboo Regional District, British Columbia, Canada
-(52.130143399999994, -122.14187089155848)```
+```Library Parking, Williams Lake, Cariboo Regional District, British Columbia, Canada (52.130143399999994, -122.14187089155848)``````
 
 -```python address.py '40.74480675, -74.02532862031404'```:
 
