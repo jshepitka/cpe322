@@ -35,16 +35,20 @@ Dusk:    2023-05-01 20:22:05.364214-04:00
 
 -```python address.py '40.74480675, -74.02532862031404'```:
 
-```Samuel C. Williams Library, Field House Road, Hoboken, Hudson County, New Jersey, 07030, United States
-(40.74480675, -74.02532861159351)```
+```
+Samuel C. Williams Library, Field House Road, Hoboken, Hudson County, New Jersey, 07030, United States
+(40.74480675, -74.02532861159351)
+```
 
 -```$ python cpu.py``` needed to install psutil. returned number of physical cores and logical cores of the processor. Then listed the utilization percentages per second for each logical core.
 
-```The number of physical cores =  8
+```
+The number of physical cores =  8
 The number of logical CPUs =  16
 The utilization per second as a percentage for each CPU
 [0.0, 0.0, 0.0, 1.5, 0.0, 7.6, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-[0.0, 0.0, 1.6, 0.0, 0.0, 1.6, 0.0, 0.0, 0.0, 0.0, 1.6, 0.0, 0.0, 0.0, 0.0, 0.0]```
+[0.0, 0.0, 1.6, 0.0, 0.0, 1.6, 0.0, 0.0, 0.0, 0.0, 1.6, 0.0, 0.0, 0.0, 0.0, 0.0]
+```
 
 -```python battery.py``` returned ```None``` because my pc does not have a battery.
 
