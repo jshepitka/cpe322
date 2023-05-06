@@ -15,9 +15,10 @@
 
 - Screen shots of the graphs in ThingSpeak. Data looks a bit weird due to a down period of a few days between starting and finishing the lab.
 
+## Lab 7B
+
 Google Dev Console and Google Maps API used for senior design project. API key for maps stored in similar method described in lab documentation but used ```.env.local``` file.
 
 Different hardware montioring software used for lab 8.
 
-
-
+[Link back to main README](https://github.com/jshepitka/cpe322/blob/main/README.md)
