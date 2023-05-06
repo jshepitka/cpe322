@@ -1,6 +1,6 @@
-[Lesson 7 Github Folder](https://github.com/kevinwlu/iot/tree/master/lesson7)
+# Lab 7 - ThingSpeak and google Sheets
 
-![image](https://user-images.githubusercontent.com/37707211/228644454-50f8eb84-dc7e-4843-af0d-6a97fe469d09.png)
+[Lesson 7 Github Folder](https://github.com/kevinwlu/iot/tree/master/lesson7)
 
 - Signed up for ThingSpeak
 - gspread and oauth2client installed with ```$ pip install ____``` in git bash terminal.
@@ -15,6 +15,9 @@
 
 - Screen shots of the graphs in ThingSpeak. Data looks a bit weird due to a down period of a few days between starting and finishing the lab.
 
+Google Dev Console and Google Maps API used for senior design project. API key for maps stored in similar method described in lab documentation but used ```.env.local``` file.
+
+Different hardware montioring software used for lab 8.
 
 
 
