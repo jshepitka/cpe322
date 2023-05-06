@@ -17,3 +17,5 @@ Cinebench R20 benchmark was run with other programs kept open which likely affec
 
 - Logging stopped after test run complete. score: 1857
 - CPU: i7-8750H (Dell XPS 15 9570) 
+
+[Link back to main README](https://github.com/jshepitka/cpe322/blob/main/README.md)
