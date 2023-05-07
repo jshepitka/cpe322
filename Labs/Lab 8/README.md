@@ -20,6 +20,6 @@ Cinebench R20 benchmark was run with other programs kept open which likely affec
 
 Tried to get python code to work properly and create graphs but 'sklearn' could not be found even after troubleshooting and reinstalling scikit-learn.
 
-csv and adjusted pyhton scripts can be found in Lab 8 folder.
+csv and adjusted python scripts can be found in Lab 8 folder.
 
 [Link back to main README](https://github.com/jshepitka/cpe322/blob/main/README.md)
