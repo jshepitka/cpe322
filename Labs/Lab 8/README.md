@@ -18,4 +18,6 @@ Cinebench R20 benchmark was run with other programs kept open which likely affec
 - Logging stopped after test run complete. score: 1857
 - CPU: i7-8750H (Dell XPS 15 9570) 
 
+Tried to get python code to work properly and create graphs but 'sklearn' could not be found even after troubleshooting and reinstalling scikit-learn.
+
 [Link back to main README](https://github.com/jshepitka/cpe322/blob/main/README.md)
